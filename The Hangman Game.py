@@ -1,4 +1,4 @@
-#Made by xylla#7803 on Discord
+#Made by Vince#3181 on Discord
 
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import *
